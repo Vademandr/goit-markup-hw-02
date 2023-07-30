@@ -121,11 +121,11 @@ body {
     letter-spacing: 0.02em;
 }
 
-.beefits__list-text {
+.benefits__list-text {
     color: var(--color-slate);
     font-weight: 400;
-    line-height: 1.5;
     font-size: 16px;
+    line-height: 1.5;
 }
 
 .works__section-title {
