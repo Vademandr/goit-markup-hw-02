@@ -51,10 +51,10 @@ body {
     text-transform: uppercase;
 }
 
-.menu {
+/*.menu {
     font-weight: 500;
     line-height: 1.5;
-}
+} */
 
 .menu__list-link{
     color: var(--color-navy-blue);
