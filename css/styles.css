@@ -21,10 +21,6 @@ body {
     letter-spacing: 0.02em;
 }
 
-.text-hidden{
-    display: none;
-}
-
 .list {
     list-style: none;
 }
@@ -56,8 +52,14 @@ body {
 }
 
 .menu {
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.menu__list-link{
     color: var(--color-navy-blue);
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -73,6 +75,7 @@ body {
 .header__contacts-link {
     color: var(--color-slate);
     font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -97,7 +100,9 @@ body {
 .general__section-button {
     color: var(--color-white);
     background-color: var(--color-iris);
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
@@ -119,6 +124,7 @@ body {
 .beefits__list-text {
     color: var(--color-slate);
     font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -164,6 +170,7 @@ body {
 .team__list-text {
     color: var(--color-slate);
     font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -174,6 +181,7 @@ body {
 .footer__text {
     color: var(--color-cloud);
     font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -192,7 +200,9 @@ body {
 .gallery__filter-button {
     color: var(--color-iris);
     background-color: var(--color-cloud);
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
@@ -215,6 +225,7 @@ body {
 .gallery__main-text {
     color: var(--color-slate);
     font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
